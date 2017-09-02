@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: September 01, 2017
-# Number of unique domains: 10
-# Revision #: 4
+# Date: September 02, 2017
+# Number of unique domains: 28
+# Revision #: 5
 #
 # ===============================================================
 
@@ -28,15 +28,35 @@ fe80::1%lo0 localhost
 
 # [Full-Page Ads]
 0.0.0.0 pconly4test.friendlysystems2upgrading.review
+0.0.0.0 friendlysystems2upgrading.review
+0.0.0.0 f020918.privacy4browsers.com
+0.0.0.0 privacy4browsers.com
+0.0.0.0 ask24update.trafficforupgrade.download
+0.0.0.0 trafficforupgrade.download
+0.0.0.0 easypdfcombine.com
+0.0.0.0 trck.addiliate.com
+0.0.0.0 addiliate.com
+0.0.0.0 jat01.iwantyourightnow.info
+0.0.0.0 iwantyourightnow.info
+0.0.0.0 messengertime.dist-app.com
+0.0.0.0 dist-app.com
+0.0.0.0 portmanchauffeurs.com
+0.0.0.0 oasis.com
+0.0.0.0 enterworldofupgradesalways.win
+0.0.0.0 testpconly12.enterworldofupgradesalways.win
 
 # [Misc Ads & Tracking]
 0.0.0.0 main.exoclick.com
 0.0.0.0 clientmetrics-augmentum.kik.com
-0.0.0.0 www.traffictraffickers.com
+0.0.0.0 traffictraffickers.com
 0.0.0.0 main.exoclick.com
+0.0.0.0 exoclick.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 anycash.com
 0.0.0.0 dating.xvicious.com
+0.0.0.0 xvicious.com
+0.0.0.0 trafficfactory.biz
+0.0.0.0 trafficjunky.net
 
 # [Misc ad & Tracking Wildcard Blocking]
 # (MAY HAVE SOME ISSUES!)
