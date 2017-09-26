@@ -9,6 +9,8 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Tue, 26 Sep 2017 00:00:00
+#
+# NOTICE: THIS IS FOR PI-HOLE AD-BLOCKING SERVER FOUND AT https://pi-hole.net
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
