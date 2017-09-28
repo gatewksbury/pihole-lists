@@ -1,0 +1,33 @@
+# Acceptab Leads
+# Title: Allow non-intrusive advertising
+# Expires: 1 days
+# Homepage: https://acceptableads.com/
+
+127.0.0.1 localhost
+::1 localhost #[IPv6]
+
+0.0.0.0 search.1und1.de
+0.0.0.0 suche.1und1.de
+0.0.0.0 suche.web.de
+0.0.0.0 suche.gmx.net
+0.0.0.0 search.gmx.net
+0.0.0.0 suche.gmx.at
+0.0.0.0 suche.gmx.ch
+0.0.0.0 search.mail.com
+0.0.0.0 find.mail.com
+0.0.0.0 search.gmx.co.uk
+0.0.0.0 search.gmx.es
+0.0.0.0 search.gmx.fr
+0.0.0.0 search.gmx.com
+0.0.0.0 smartsearch.de
+0.0.0.0 smartshopping.com
+0.0.0.0 discover.mail.com
+0.0.0.0 news.gmx.es
+0.0.0.0 news.gmx.com
+0.0.0.0 news.gmx.co.uk
+0.0.0.0 news.gmx.fr
+0.0.0.0 news.it.gmx.com
+0.0.0.0 news.hs.gmx.com
+0.0.0.0 news.gmx.net
+0.0.0.0 search.1and1.com
+0.0.0.0 s.gmx.net
