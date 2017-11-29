@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: September 26, 2017
-# Number of unique domains: 37
-# Revision #: 7
+# Date: November 28, 2017
+# Number of unique domains: 38
+# Revision #: 8
 #
 # ===============================================================
 
@@ -66,6 +66,9 @@ fe80::1%lo0 localhost
 0.0.0.0 admarketplace.net
 0.0.0.0 ampxchange.com
 0.0.0.0 inclk.com
+
+# FAKE Downloads
+0.0.0.0 getflash.co
 
 
 # [Misc ad & Tracking Wildcard Blocking]
