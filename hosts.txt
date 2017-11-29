@@ -2,8 +2,8 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: November 28, 2017
-# Number of unique domains: 40
-# Revision #: 9
+# Number of unique domains: 44
+# Revision #: 10
 #
 # ===============================================================
 
@@ -46,6 +46,10 @@ fe80::1%lo0 localhost
 0.0.0.0 testpconly12.enterworldofupgradesalways.win
 
 # [Misc Ads & Tracking]
+0.0.0.0 js.cleannowbundle.com
+0.0.0.0 www.cleannowbundle.com
+0.0.0.0 cleannowbundle.com
+0.0.0.0 css.cleannowbundle.com
 0.0.0.0 main.exoclick.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 traffictraffickers.com
