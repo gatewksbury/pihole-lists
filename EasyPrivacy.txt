@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+# Checksum: 5K9uFNfcOnmBAxIXv2p/8g
+# Version: 201709282320
+# Title: EasyList
+! Last modified: 28 Sep 2017 23:20 UTC
+# Expires: 2 days (update frequency)
+# Homepage: https://easylist.to/
+# Licence: https://easylist.to/pages/licence.html
+!
+# Please report any unblocked adverts or problems
+# in the forums (https://forums.lanik.us/)
+# or via e-mail (easylist.subscription@gmail.com).
+# 
+# Please email GATmyIT@GATmyIT.com is you have issues
+
+# Required
+
+127.0.0.1 localhost
+::1 localhost #[IPv6]
+
